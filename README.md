@@ -10,4 +10,4 @@ You can reuse the E5 switch.
 
 !(https://github.com/Wild1z2/Ender5Plus-PowerSkirt/blob/Ender-5/Ender%205%2B%20Skirt%20Render%20BOM.png)
 
-![Ender 5+ Render](Wild1z2/Ender5Plus-PowerSkirt/blob/Ender-5/Ender%205%2B%20Skirt%20Render%20BOM.png)
+![Ender 5+ Render](Ender%205%2B%20Skirt%20Render%20BOM.png)
